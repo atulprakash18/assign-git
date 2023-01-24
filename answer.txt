@@ -12,5 +12,3 @@ Helps the developer to branch out from the primary codebase and develop individu
 
 •  In a project how many remote Git repositories do you usually have? 
 We have a single remote repository for project which is used to track all other development activities. 
-
----end---
